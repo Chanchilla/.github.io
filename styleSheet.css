@@ -15,14 +15,14 @@ body {
     font-family:'Rock Salt', cursive;
     font-weight: bold;
     text-align: center;
-    color: maroon;
+    color: black;
     font-size: 65px;
     margin-right: auto;
   }
 
   a {
     font-family:'Poiret One', cursive;
-    color: darkred;
+    color: black;
     text-align: right;
   }
 
@@ -83,6 +83,6 @@ body {
     font-family:'Poiret One', fantasy;
     text-align: center;
     color: black;
-    font-size: 20px
+    font-size: 30px
 }
 
