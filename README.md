@@ -1,2 +1,2 @@
 # chanchilla.github.io
-pickuplines bruh
+This is a personal portfolio website 
