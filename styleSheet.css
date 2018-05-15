@@ -27,9 +27,9 @@ body {
   }
 
   .navigation-bar{
+    height:auto;
     padding: 10px;
     border-style:double white;
-    border-bottom: 1px;
     border-radius: 5px;
     background: black;
     opacity: 0.5;
@@ -42,7 +42,7 @@ body {
     border: 10px 10px;
     background: white;
     border-style: 1px double;
-    width: 20px;
+    width: auto;
     font-family:'Raleway', cursive;
   }
 
