@@ -31,15 +31,17 @@ body {
     border-style:double white;
     border-bottom: 1px;
     border-radius: 5px;
-    background: black (0.5);
+    background: black;
+    opacity: 0.5;
   }
 
   .navlinks{
     Margin-Left: 20px;
     Font-size: 35px;
-    color: #8B0000;
+    color: black;
     border: 10px 10px;
-    border-style: double;
+    background: white;
+    border-style: 1px double;
     width: 20px;
     font-family:'Raleway', cursive;
   }
