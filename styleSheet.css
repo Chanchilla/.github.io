@@ -31,7 +31,7 @@ body {
     padding: 10px;
     border-style: double white;
     border-radius: 5px;
-    background: linear-gradient(black, violet);
+    background: linear-gradient(black, violet, white);
     opacity: 0.5;
     width: 100%
     position: fixed;
