@@ -34,13 +34,11 @@ body {
   }
 
   .navlinks{
-    text-decoration: underline; 
     Margin-Left: 20px;
     Font-size: 35px;
     color: #8B0000;
     border-right: 10px;
     border-style: double;
-    border-radius: 10px;
     width: 20px;
     font-family:'Raleway', cursive;
   }
