@@ -47,20 +47,20 @@ body {
     font-family:'Rock Salt', cursive;
   }
     
-.a: hover{
+a: hover{
     opacity: 0.5;
     background-color: black;
     color: black;
     box-shadow: 5px 5px 5px teal;
 }
 
-.a: active{
+a: active{
     opacity: 0.5;
     background-color: white;
     color: pink;
 }
 
-.a: visited{
+a: visited{
     color: violet;
 }
     
