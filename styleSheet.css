@@ -31,8 +31,8 @@ body {
     padding: 10px;
     border-style: double white;
     border-radius: 5px;
-    background: linear-gradient(black, violet, white);
-    opacity: 0.8;
+    background: linear-gradient(black, violet, black);
+    opacity: 0.65;
     width: 100%
     position: fixed;
   }
@@ -47,20 +47,20 @@ body {
     font-family:'Rock Salt', cursive;
   }
     
-.navlinks: hover{
+.a: hover{
     opacity: 0.5;
     background-color: black;
     color: black;
     box-shadow: 5px 5px 5px teal;
 }
 
-.navlinks: active{
+.a: active{
     opacity: 0.5;
     background-color: white;
     color: pink;
 }
 
-.navlinks: visited{
+.a: visited{
     color: violet;
 }
     
