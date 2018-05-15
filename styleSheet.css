@@ -48,23 +48,12 @@ body {
     font-family:'Rock Salt', cursive;
   }
     
-a: hover{
+.navlinks: hover{
     opacity: 0.5;
     background-color: black;
     color: black;
     box-shadow: 5px 5px 5px teal;
 }
-
-a: active{
-    opacity: 0.5;
-    background-color: white;
-    color: pink;
-}
-
-a: visited{
-    color: violet;
-}
-    
 
   .credittext {
     text-align: center;
