@@ -49,7 +49,7 @@ body {
     font-family:'Rock Salt', cursive;
   }
     
-.navlinks: hover{
+.navlinks a: hover:not(.active){
     opacity: 0.5;
     background-color: black;
     color: black;
