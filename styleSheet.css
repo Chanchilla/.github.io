@@ -32,7 +32,7 @@ body {
     border-style: double white;
     border-radius: 5px;
     background: linear-gradient(black, violet, white);
-    opacity: 0.5;
+    opacity: 0.8;
     width: 100%
     position: fixed;
   }
@@ -85,7 +85,6 @@ body {
     font-family:'Poiret One', fantasy;
     text-align: center;
     color: black;
-    font-size: 30px;
-    padding: 70px 70px;
+    padding: 50px 50px;
 }
 
