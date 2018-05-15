@@ -41,8 +41,8 @@ body {
     Margin-Left: 20px;
     Font-size: 35px;
     color: black;
-    border: 5px;
     background: white;
+    border-radius: 10% ;
     width: auto;
     font-family:'Rock Salt', cursive;
   }
