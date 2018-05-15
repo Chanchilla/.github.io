@@ -62,3 +62,10 @@ body {
     max-width: 200;
   }
 
+#context {
+    font-family:'Poiret One', fantasy;
+    text-align: center;
+    color: black;
+    font-size: 20px
+}
+
