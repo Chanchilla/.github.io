@@ -76,8 +76,8 @@ body {
     border-radius: 190px;
     border: double white;
     margin-top: 31px;
-    max-width: 300px;
-    max-height:300px;
+    max-width: 500px;
+    max-height:400px;
   }
 
 #content {
