@@ -45,6 +45,23 @@ body {
     width: auto;
     font-family:'Rock Salt', cursive;
   }
+    
+.navlinks: hover{
+    opacity: 0.5;
+    background-color: black;
+    color
+}
+
+.navlinks: active{
+    opacity: 0.5;
+    background-color: white;
+    color: pink;
+}
+
+.navlinks: visited{
+    color: violet;
+}
+    
 
   .credittext {
     text-align: center;
