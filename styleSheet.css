@@ -1,6 +1,8 @@
 body {
     background-image:url("background-2579719_960_720.jpg");
     background-repeat: repeat;
+    height: auto;
+    max-width: 1000px;
   }
 
   p {
