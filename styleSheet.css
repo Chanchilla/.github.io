@@ -23,12 +23,6 @@ body {
     text-shadow: 2x;
   }
 
-  a {
-    font-family:'Poiret One', cursive;
-    color: black;
-    text-align: right;
-  }
-
   .navigation-bar{
     height:auto;
     padding: 10px;
@@ -41,11 +35,13 @@ body {
   }
 
   .navlinks{
+    font-family:'Poiret One', cursive;
+    text-align: center;
     Margin-Left: 20px;
     Font-size: 35px;
     color: black;
     background: white;
-    border-radius: 10% ;
+    border-radius: 10%;
     width: auto;
     font-family:'Rock Salt', cursive;
   }
