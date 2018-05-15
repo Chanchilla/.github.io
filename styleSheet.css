@@ -4,7 +4,7 @@ body {
   }
 
   p {
-    font-family:'Raleway', fantasy;
+    font-family:'Poiret One', fantasy;
     text-align: center;
     color: black;
     font-size: 20px
@@ -12,7 +12,7 @@ body {
   }
 
   h1 {
-    font-family:'Raleway', cursive;
+    font-family:'Rock Salt', cursive;
     font-weight: bold;
     text-align: center;
     color: maroon;
@@ -21,7 +21,7 @@ body {
   }
 
   a {
-    font-family:'Raleway', cursive;
+    font-family:'Poiret One', cursive;
     color: darkred;
     text-align: right;
   }
@@ -29,7 +29,7 @@ body {
   .navigation-bar{
     height:auto;
     padding: 10px;
-    border-style:double white;
+    border-style: double white;
     border-radius: 5px;
     background: black;
     opacity: 0.5;
@@ -39,11 +39,11 @@ body {
     Margin-Left: 20px;
     Font-size: 35px;
     color: black;
-    border: 10px 10px;
+    border: 5px;
     background: white;
     border-style: 1px double;
     width: auto;
-    font-family:'Raleway', cursive;
+    font-family:'Rock Salt', cursive;
   }
 
   .credittext {
@@ -51,7 +51,7 @@ body {
     font-size: 11px;
     margin: 0 auto;
     width: 178px;
-    font-family:'Raleway', fantasy;
+    font-family:'Poiret One', fantasy;
   }
 
 .pictures {
