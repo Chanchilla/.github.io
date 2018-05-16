@@ -40,7 +40,7 @@ body {
     padding: 10px;
     border-style: double white;
     border-radius: 5px;
-    background: linear-gradient(black, violet, black);
+    background: linear-gradient(#00ECF5, #D1FEFF, #00ECF5);
     opacity: 0.65;
     width: 100%
     position: sticky;
