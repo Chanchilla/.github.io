@@ -37,38 +37,33 @@ body {
 
   .navigation-bar{
     height:auto;
-    padding: 10px;
+    padding: auto;
     border-style: double white;
-    border-radius: 5px;
-    background: linear-gradient(#98E2FF, #CC99FF, #98E2FF);
-    opacity: 0.65;
+    border-radius: 10px;
+    background: #CC99FF;
+    opacity: 0.8;
     width: 100%;
-    position: sticky;
   }
 
   .navlinks{
-    font-family:'Poiret One', cursive;
     text-align: center;
-    Margin-Left: 20px;
-    Font-size: 35px;
+    Margin-Left: 40px;
+    Font-size: 60px;
     color: black;
-    background: white;
-    border-radius: 10%;
     width: auto;
-    font-family:'Rock Salt', cursive;
-    position: sticky;
+    text-decoration: none;
+    font-family:'Poiret One', fantasy;
   }
     
 .navlinks:hover {
   opacity: 0.8;
-  background-color: #CC99FF;
-  box-shadow: 2px 2px #CC99FF;
+  background-color: #b366ff;
   -webkit-animation-name: mouseover;
   /* Safari 4.0 - 8.0 */
   -webkit-animation-duration: 1s;
   /* Safari 4.0 - 8.0 */
   animation-name: mouseover;
-  animation-duration: 1s;
+  animation-duration: 0.4s;
 }
 
   .credittext {
@@ -107,8 +102,7 @@ body {
   }
   to {
     opacity: 0.8;
-    background-color: #CC99FF;
-    box-shadow: 2px 2px #CC99FF;
+    background-color: #b366ff;
   }
 }
 
@@ -120,7 +114,6 @@ body {
   }
   to {
     opacity: 0.8;
-    background-color: #CC99FF;
-    box-shadow: 2px 2px #CC99FF;
+    background-color: #b366ff;
   }
 }
