@@ -100,14 +100,14 @@ footer {
 
 @-webkit-keyframes mouseover {
   from {
-    opacity: 0.4;
+    opacity: 0.0;
     background-color: white;
     ;
   }
   to {
-    opacity: 0.4;
-    background-color: #DDA0DD;
-    box-shadow: 2px 2px #DDA0DD;
+    opacity: 0.3;
+    background-color: #00ECF5;
+    box-shadow: 2px 2px #00ECF5;
   }
 }
 
@@ -115,12 +115,12 @@ footer {
 
 @keyframes mouseover {
   from {
-    opacity: 0.4;
+    opacity: 0.0;
     background-color: white;
   }
   to {
-    opacity: 0.4;
-    background-color: #DDA0DD;
-    box-shadow: 2px 2px #DDA0DD;
+    opacity: 0.3;
+    background-color: #00ECF5;
+    box-shadow: 2px 2px #00ECF5;
   }
 }
