@@ -58,11 +58,15 @@ body {
     font-family:'Rock Salt', cursive;
   }
     
-.navlinks a: hover:not(.active){
-    opacity: 0.5;
-    background-color: black;
-    color: black;
-    box-shadow: 5px 5px 5px teal;
+.navlinks:hover {
+  background-color: teal;
+  box-shadow: 2px 2px white;
+  -webkit-animation-name: mouseover;
+  /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 1s;
+  /* Safari 4.0 - 8.0 */
+  animation-name: mouseover;
+  animation-duration: 1s;
 }
 
   .credittext {
@@ -92,4 +96,25 @@ footer {
     padding:100px:
     font-size: 15px;
     padding-bottom: 1px;
+}
+
+@-webkit-keyframes mouseover {
+  from {
+    background-color: black;
+    ;
+  }
+  to {
+    background-color: white;
+  }
+}
+
+/* Standard syntax */
+
+@keyframes mouseover {
+  from {
+    background-color: black;
+  }
+  to {
+    background-color: white;
+  }
 }
