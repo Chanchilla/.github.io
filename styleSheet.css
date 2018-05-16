@@ -42,7 +42,7 @@ body {
     border-radius: 5px;
     background: linear-gradient(#CC0066, #CC99FF, #CC0066);
     opacity: 0.65;
-    width: 100%
+    width: 100%;
     position: sticky;
   }
 
@@ -61,6 +61,7 @@ body {
     
 .navlinks:hover {
   background-color: #CC99FF;
+  box-shadow: 2px 2px #CC99FF;
   -webkit-animation-name: mouseover;
   /* Safari 4.0 - 8.0 */
   -webkit-animation-duration: 1s;
