@@ -77,8 +77,8 @@ body {
   }
 
 .pictures {
-    border-radius: 190px;
-    border: double white;
+    border-radius: 20px;
+    border: 5px double white;
     margin-top: 31px;
     max-width: 500px;
     max-height:400px;
