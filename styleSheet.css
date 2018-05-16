@@ -60,13 +60,12 @@ body {
     
 .navlinks:hover {
   background-color: teal;
-  box-shadow: 2px 2px white;
   -webkit-animation-name: mouseover;
   /* Safari 4.0 - 8.0 */
   -webkit-animation-duration: 1s;
   /* Safari 4.0 - 8.0 */
   animation-name: mouseover;
-  animation-duration: 1s;
+  animation-duration: 2s;
 }
 
   .credittext {
@@ -100,13 +99,14 @@ footer {
 
 @-webkit-keyframes mouseover {
   from {
-    opacity: 0.5;
+    opacity: 0.4;
     background-color: white;
     ;
   }
   to {
-    opacity: 1;
+    opacity: 0.4;
     background-color: #DDA0DD;
+    box-shadow: 2px 2px #DDA0DD;
   }
 }
 
@@ -114,11 +114,12 @@ footer {
 
 @keyframes mouseover {
   from {
-    opacity: 0.5;
+    opacity: 0.4;
     background-color: white;
   }
   to {
-    opacity: 1;
+    opacity: 0.4;
     background-color: #DDA0DD;
+    box-shadow: 2px 2px #DDA0DD;
   }
 }
