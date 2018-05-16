@@ -104,7 +104,7 @@ footer {
     ;
   }
   to {
-    opacity: 0.3;
+    opacity: 0.8;
     background-color: #CC99FF;
     box-shadow: 2px 2px #CC99FF;
   }
@@ -117,7 +117,7 @@ footer {
     background-color: white;
   }
   to {
-    opacity: 0.3;
+    opacity: 0.8;
     background-color: #CC99FF;
     box-shadow: 2px 2px #CC99FF;
   }
