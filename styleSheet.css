@@ -43,7 +43,7 @@ body {
     background: linear-gradient(black, violet, black);
     opacity: 0.65;
     width: 100%
-    position: fixed;
+    position: sticky;
   }
 
   .navlinks{
@@ -56,6 +56,7 @@ body {
     border-radius: 10%;
     width: auto;
     font-family:'Rock Salt', cursive;
+    position: sticky;
   }
     
 .navlinks:hover {
