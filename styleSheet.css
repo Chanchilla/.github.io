@@ -60,6 +60,7 @@ body {
   }
     
 .navlinks:hover {
+  opacity: 0.8;
   background-color: #CC99FF;
   box-shadow: 2px 2px #CC99FF;
   -webkit-animation-name: mouseover;
