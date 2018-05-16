@@ -40,7 +40,7 @@ body {
     padding: 10px;
     border-style: double white;
     border-radius: 5px;
-    background: linear-gradient(#00ECF5, #D1FEFF, #00ECF5);
+    background: linear-gradient(#CC0066, #CC99FF, #CC0066);
     opacity: 0.65;
     width: 100%
     position: sticky;
@@ -60,13 +60,13 @@ body {
   }
     
 .navlinks:hover {
-  background-color: teal;
+  background-color: #CC99FF;
   -webkit-animation-name: mouseover;
   /* Safari 4.0 - 8.0 */
   -webkit-animation-duration: 1s;
   /* Safari 4.0 - 8.0 */
   animation-name: mouseover;
-  animation-duration: 2s;
+  animation-duration: 1s;
 }
 
   .credittext {
@@ -100,14 +100,13 @@ footer {
 
 @-webkit-keyframes mouseover {
   from {
-    opacity: 0.0;
     background-color: white;
     ;
   }
   to {
     opacity: 0.3;
-    background-color: #00ECF5;
-    box-shadow: 2px 2px #00ECF5;
+    background-color: #CC99FF;
+    box-shadow: 2px 2px #CC99FF;
   }
 }
 
@@ -115,12 +114,11 @@ footer {
 
 @keyframes mouseover {
   from {
-    opacity: 0.0;
     background-color: white;
   }
   to {
     opacity: 0.3;
-    background-color: #00ECF5;
-    box-shadow: 2px 2px #00ECF5;
+    background-color: #CC99FF;
+    box-shadow: 2px 2px #CC99FF;
   }
 }
