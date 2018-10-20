@@ -46,6 +46,7 @@ body {
   }
 
   .navlinks{
+    font-size: auto;
     text-align: center;
     Margin-Left: 40px;
     Font-size: 60px;
